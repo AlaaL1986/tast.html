@@ -1,0 +1,33 @@
+div.father {
+    background-color: rgb(222, 150, 224);
+    text-align: center;
+    width: 400px;
+    height: 150px;
+    margin-left: 400px;
+    border: 50px;
+    bottom: 100px;
+}
+
+div.mam {
+    background-color: rgb(160, 123, 194);
+    text-align: center;
+    width: 400px;
+    height: 200px;
+    margin-left: 400px;
+}
+
+#baba {
+    background-color: rgb(87, 27, 143);
+    text-align: center;
+    width: 700px;
+    height: 100px;
+    margin: 40px;
+    border: 50px;
+}
+
+img {
+    width: 400px;
+    margin: 4px;
+    margin-left: 400px;
+    border: solid 6px;
+}
