@@ -1,19 +1,19 @@
 div.father {
-    background-color: rgb(222, 150, 224);
+    background-color: rgb(239, 205, 240);
     text-align: center;
-    width: 400px;
+    width: 800px;
     height: 150px;
-    margin-left: 400px;
-    border: 50px;
+    margin-left: 200px;
+    border: 30px;
     bottom: 100px;
 }
 
 div.mam {
-    background-color: rgb(160, 123, 194);
+    background-color: rgb(220, 199, 240);
     text-align: center;
-    width: 400px;
+    width: 500px;
     height: 200px;
-    margin-left: 400px;
+    margin-left: 350px;
 }
 
 #baba {
@@ -22,7 +22,7 @@ div.mam {
     width: 700px;
     height: 100px;
     margin: 40px;
-    border: 50px;
+    border: 30px;
 }
 
 img {
